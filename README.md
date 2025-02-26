@@ -3,6 +3,7 @@
 ```
   pip install qrcode[pil]
 ```
+Запустите файл main.py
 
 
 
