@@ -1,7 +1,7 @@
 # Создания QR Кода На Python
 ```Установка```
 ```
-  pip install qrcode[pil]
+  pip install qrcode
 ```
 Запустите файл main.py
 
